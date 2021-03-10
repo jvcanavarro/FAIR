@@ -207,7 +207,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-João V. Canavarro - [@jvcanab](https://twitter.com/jvcanab) - jvcanavarro@gmail.com
+João V. Canavarro - jvcanavarro@gmail.com
 
 Project Link: [https://github.com/jvcanavarro/FAIR-Fast-Adapter-Identification-and-Removal](https://github.com/jvcanavarro/FAIR-Fast-Adapter-Identification-and-Removal)
 
