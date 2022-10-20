@@ -25,18 +25,6 @@
   </a>
 
   <h3 align="center">Fast Adapter Identification & Removal</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/jvcanavarro/FAIR-Fast-Adapter-Identification-and-Removal"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/jvcanavarro/FAIR-Fast-Adapter-Identification-and-Removal">View Demo</a>
-    ·
-    <a href="https://github.com/jvcanavarro/FAIR-Fast-Adapter-Identification-and-Removal/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/jvcanavarro/FAIR-Fast-Adapter-Identification-and-Removal/issues">Request Feature</a>
-  </p>
 </p>
 
 
@@ -60,7 +48,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://github.com/jvcanavarro/FAIR-Fast-Adapter-Identification-and-Removal/blob/master/utils/best5.png)
 
 Based on 180 Pattern-Matching (PM) Algorithms Analisys the main idea of the project is to create a simple and fast tool to remove fragments of adapters located on FASTQ files. After testing all 180 algorithms utilizing the SMART Tool, we analysed the results and end up with 5 algorithms that had good performance with the approximated pattern length of a adapter (between 8 and 16 nitrogenous bases). QF43 and Sbndmq-4 had the best results, however Sbndmq-4 was slightly better with patterns of 8 nitrogenous bases, ending as our choice for this project. More informations about FAIR and 180 Pattern-Matching Algorithms Analysis can be found at: 
 
